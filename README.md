@@ -29,8 +29,8 @@ This project demonstrates a complete data analytics workflow — from loading ra
 - Electronics category showed the highest repeat purchase rate  
 
 ### 📁 Repository Structure
-├── data/          # Raw and cleaned datasets 
-├── notebooks/     # Jupyter notebooks for EDA 
-├── sql/           # SQL scripts 
-├── dashboard/     # Power BI files 
-└── README.md      # Project documentation
+- ├── data/          # Raw and cleaned datasets 
+- ├── notebooks/     # Jupyter notebooks for EDA 
+- ├── sql/           # SQL scripts 
+- ├── dashboard/     # Power BI files 
+- └── README.md      # Project documentation
